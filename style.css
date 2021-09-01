@@ -36,3 +36,10 @@ hr {
     border: 5px solid #BDC3C7;
 }
 
+div {
+    border-radius: 25px;
+}
+h2:hover {
+    text-align: center;
+    letter-spacing: 20px;
+}
